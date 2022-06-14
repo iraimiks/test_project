@@ -2,7 +2,6 @@ const people = [
   { name: 'adri'},
   { name: 'becky'},
   { name: 'chris'},
-  { name: 'dillon'},
   { name: 'evan'},
   { name: 'frank'},
   { name: 'georgette'},
